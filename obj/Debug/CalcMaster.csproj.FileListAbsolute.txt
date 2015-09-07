@@ -1,0 +1,9 @@
+C:\Users\Vita\Documents\GitHub\CalculatorApp\CalcMaster\CalcMaster\bin\Debug\CalcMaster.exe.config
+C:\Users\Vita\Documents\GitHub\CalculatorApp\CalcMaster\CalcMaster\bin\Debug\CalcMaster.exe
+C:\Users\Vita\Documents\GitHub\CalculatorApp\CalcMaster\CalcMaster\bin\Debug\CalcMaster.pdb
+C:\Users\Vita\Documents\GitHub\CalculatorApp\CalcMaster\CalcMaster\obj\Debug\CalcMaster.csprojResolveAssemblyReference.cache
+C:\Users\Vita\Documents\GitHub\CalculatorApp\CalcMaster\CalcMaster\obj\Debug\CalcMaster.Form1.resources
+C:\Users\Vita\Documents\GitHub\CalculatorApp\CalcMaster\CalcMaster\obj\Debug\CalcMaster.Properties.Resources.resources
+C:\Users\Vita\Documents\GitHub\CalculatorApp\CalcMaster\CalcMaster\obj\Debug\CalcMaster.csproj.GenerateResource.Cache
+C:\Users\Vita\Documents\GitHub\CalculatorApp\CalcMaster\CalcMaster\obj\Debug\CalcMaster.exe
+C:\Users\Vita\Documents\GitHub\CalculatorApp\CalcMaster\CalcMaster\obj\Debug\CalcMaster.pdb
